@@ -3,9 +3,9 @@
 - Theory
   - Event loop 👂 heard
   - `try..catch` 🎓 known
-  - Non-blocking
+  - Non-blocking 👂 heard
   - Async I/O 👂 heard
-  - Thread pool
+  - Thread pool 👂 heard
   - Pattern Reactor
   - CAS operations 👂 heard
   - epoll
@@ -19,15 +19,15 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread 👂 heard
+  - Process 👂 heard
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
+  - Callbacks 👂 heard
+  - Callback-last-error-first 
   - Thenable
-  - Promise
-  - Async/await
-  - Future
+  - Promise 👂 heard
+  - Async/await 👂 heard
+  - Future 👂 heard
   - Deferred
   - Sync generator
   - Async Generator
@@ -35,7 +35,7 @@
   - Event
   - Coroutine
   - Goroutine
-  - Signal
+  - Signal 👂 heard
   - Stream
   - Chain of responsibility
   - Middleware
@@ -47,7 +47,7 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
+  - EventEmitter 👂 heard
   - Observable/Observer
   - Readable
   - Writable
