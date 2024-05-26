@@ -4,29 +4,29 @@
   - Strong and weak sides of node.js
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
-  - Event loop phases
-  - Event loop microtasks and macrotasks
+  - Event loop phases 👂 heard
+  - Event loop microtasks and macrotasks 
   - Garbage collection
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
-  - Module `node:module`
+  - CommonJS modules 🖐️ used
+  - ECMAScript modules 🖐️ used
+  - Module `node:module` 🖐️ used
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`
-  - Files `package.json`, `package-lock.json`
+  - Dependencies: `npm`, `node_modules` 👂 heard
+  - Files `package.json`, `package-lock.json` 👂 heard
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
+  - Command line arguments 👂 heard
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
@@ -54,8 +54,8 @@
   - MessageChannel, MessagePort
   - BroadcastChannel
   - Generating crypto random UUID
-  - Module `node:url` vs `new URL`
-  - Module `node:assert`
+  - Module `node:url` vs `new URL` 👂 heard
+  - Module `node:assert` 👂 heard
   - Internationalization
   - Blob, File, Buffer, module `node:buffer`
   - Module `node:zlib`
@@ -67,53 +67,53 @@
   - Protocol agnostic approach
   - Fetch API
   - IncomingMessage
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
-  - TLS
-  - Websocket
+  - HTTP(S) 👂 heard
+  - TCP/SSL 👂 heard
+  - UDP 👂 heard
+  - TLS 👂 heard
+  - Websocket 👂 heard
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
   - REST
   - RPC
-  - Routing
-  - DoS
-  - DDoS
+  - Routing 👂 heard
+  - DoS 👂 heard
+  - DDoS 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner
-  - Logging
-  - Application configuring
-  - Testing
-  - CI/CD
+  - Logging 👂 heard
+  - Application configuring 👂 heard
+  - Testing 👂 heard
+  - CI/CD 🖐️ used
   - Readable
   - Writable
   - Transform
   - Back pressure
   - Buffer
-  - Console
+  - Console 👂 heard
   - Inspector
 - Data access
   - Data access layer
-  - Repository
+  - Repository 👂 heard
   - Active record
   - Query builder
   - Object-Relational Mapping
-  - CRUD
+  - CRUD 👂 heard
   - DTO
 - Error handling and debugging
-  - `Error`
+  - `Error` 👂 heard
   - `error.cause`
   - `error.code`
-  - `error.message`
+  - `error.message` 👂 heard
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
