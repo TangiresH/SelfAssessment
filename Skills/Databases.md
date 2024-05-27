@@ -1,11 +1,11 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
+  - Data types 👂 heard
   - Performance tuning
   - Migrations
   - Schema versioning
-  - Backup and recovery
+  - Backup and recovery 👂 heard
   - Database scalability
   - Relational databases
   - Key-value store
@@ -36,10 +36,10 @@
   - Replications
   - Virtualization
 - SQL
-  - `SELECT`
-  - `INSERT`
-  - `UPDATE`
-  - `DELETE`
+  - `SELECT` 👂 heard
+  - `INSERT` 👂 heard
+  - `UPDATE` 👂 heard
+  - `DELETE` 👂 heard
   - `LIMIT`
   - `OFFSET`
   - `ORDER BY`
