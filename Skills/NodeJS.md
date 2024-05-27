@@ -17,9 +17,9 @@
   - Caching in CJS and ESM
   - Modules as singletons
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` 👂 heard
-  - Files `package.json`, `package-lock.json` 👂 heard
-  - Module-based permissions model
+  - Dependencies: `npm`, `node_modules` 🖐️ used
+  - Files `package.json`, `package-lock.json` 🖐️ used
+  - Module-based permissions model 👂 heard
   - Isolation with modularity
   - Dependency injection 👂 heard
   - DI containers
@@ -30,7 +30,7 @@
   - Node.js CLI
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
+  - Clustering 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
   - Streams API
