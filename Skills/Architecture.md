@@ -1,7 +1,7 @@
 ## Architecture
 
 - Application structure
-  - Modularity 
+  - Modularity 🖐️ used
   - Components 🎓 known
   - Directories 🖐️ used
   - GRASP 👂 heard
@@ -11,8 +11,8 @@
   - Leaking abstractions
   - Multiparadigm code 👂 heard
   - Contract programming
-  - Platform-agnostic 
-  - Transport-agnostic
+  - Platform-agnostic  👂 heard
+  - Transport-agnostic 👂 heard
   - Framework-agnostic 👂 heard
   - Code coverage
   - Cohesion
@@ -32,7 +32,7 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
+  - Dependency injection (DI) 👂 heard
   - Clean architecture
   - Domain-driven design (DDD)
   - Pub/sub
@@ -42,8 +42,8 @@
   - Message Queue (MQ)
   - CQRS
   - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling 👂 heard
+  - Entity-relationship diagram 👂 heard
   - IDEF1X
   - UML 👂 heard
   - Work breakdown structure

@@ -14,25 +14,25 @@
   - Event ports
   - libuv
   - Race conditions
-  - Dead locks
-  - Live locks
+  - Dead locks 🖐️ used
+  - Live locks 👂 heard
   - Concurrent programming
-  - Parallel programming
+  - Parallel programming 👂 heard
   - Actor Model
-  - Thread 👂 heard
-  - Process 👂 heard
+  - Thread 🖐️ used
+  - Process 🖐️ used
 - Async contracts
-  - Callbacks 👂 heard
+  - Callbacks 🖐️ used
   - Callback-last-error-first 
-  - Thenable
+  - Thenable 🖐️ used
   - Promise 👂 heard
-  - Async/await 👂 heard
+  - Async/await 🖐️ used
   - Future 👂 heard
   - Deferred
   - Sync generator
   - Async Generator
   - Async Iterator
-  - Event
+  - Event 👂 heard
   - Coroutine
   - Goroutine
   - Signal 👂 heard
@@ -51,12 +51,12 @@
   - Observable/Observer
   - Readable
   - Writable
-  - Transform
+  - Transform 👂 heard
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore
-  - Mutex
+  - Semaphore 🖐️ used
+  - Mutex 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics 👂 heard
   - High resolution clock
   - Callback hell
   - Promise hell

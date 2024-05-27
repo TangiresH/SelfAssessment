@@ -30,7 +30,7 @@
   - `globalThis` 👂 heard
   - `window` 👂 heard
   - Getters and setters 🖐️ used
-  - `__proto__` 👂 heard
+  - `__proto__` 🖐️ used
   - `prototype` 👂 heard
   - Equality operators 🖐️ used
   - Logical operators 🎓 known
@@ -79,11 +79,11 @@
   - `with` 👂 heard
   - `new` 👂 heard
 - Functions
-  - Arrow function 👂 heard
-  - Async function 👂 heard
-  - Function declaration 👂 heard
-  - Function expression 👂 heard
-  - Default parameters 👂 heard
+  - Arrow function 🖐️ used
+  - Async function 🖐️ used
+  - Function declaration 🖐️ used
+  - Function expression 🖐️ used
+  - Default parameters 🖐️ used
   - Functional object 👂 heard
   - `Function.prototype.call` 👂 heard
   - `Function.prototype.bind` 👂 heard
