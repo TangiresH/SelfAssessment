@@ -1,70 +1,70 @@
 ## Databases
 
 - Theory and concepts
-  - Data types 👂 heard
+  - Data types 🖐️ used
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery 👂 heard
-  - Database scalability
-  - Relational databases
-  - Key-value store
+  - Database scalability 👂 heard
+  - Relational databases 🖐️ used
+  - Key-value store 👂 heard
   - Tuple store
   - Graph databases
-  - Object databases
-  - Column databases
+  - Object databases 🖐️ used
+  - Column databases 👂 heard
   - Navigational databases
   - Hierarchical databases
   - In-memory databases
   - Inverted index
-  - Data control language (DCL)
-  - Data definition language (DDL)
-  - Data manipulation language (DML)
-  - Data query language (DQL)
+  - Data control language (DCL) 🖐️ used
+  - Data definition language (DDL) 🖐️ used
+  - Data manipulation language (DML) 🖐️ used
+  - Data query language (DQL) 🖐️ used
 - Relational
-  - Entity-Relationship Diagram
+  - Entity-Relationship Diagram 🖐️ used
   - Normal forms
-  - Indexing
-  - Primary keys
-  - Foreign keys
-  - Transactions
+  - Indexing 🖐️ used
+  - Primary keys 🖐️ used
+  - Foreign keys 🖐️ used
+  - Transactions 
   - Views
   - Subqueries
-  - Stored procedures
-  - SQL functions
+  - Stored procedures 👂 heard
+  - SQL functions 🖐️ used
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` 👂 heard
-  - `INSERT` 👂 heard
-  - `UPDATE` 👂 heard
-  - `DELETE` 👂 heard
-  - `LIMIT`
-  - `OFFSET`
-  - `ORDER BY`
-  - `GROUP BY`
+  - `SELECT` 🖐️ used
+  - `INSERT` 🖐️ used
+  - `UPDATE` 🖐️ used
+  - `DELETE` 🖐️ used
+  - `LIMIT` 🖐️ used
+  - `OFFSET` 🖐️ used
+  - `ORDER BY` 🖐️ used
+  - `GROUP BY` 🖐️ used
   - `HAVING`
   - `EXISTS`
-  - `JOIN`
-  - `INNER JOIN`
+  - `JOIN` 🖐️ used
+  - `INNER JOIN` 👂 heard
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE`
-  - `LIKE`
+  - `WHERE` 🖐️ used
+  - `LIKE` 🖐️ used
   - `IN`
   - `BETWEEN`
   - `CREATE TABLE`
   - `ALTER TABLE`
   - `DROP TABLE`
-  - `PRIMARY KEY`
-  - `FOREIGN KEY`
-  - `CHECK`
-  - `DEFAULT`
-  - `INDEX`
-  - `UNIQUE`
+  - `PRIMARY KEY` 🖐️ used
+  - `FOREIGN KEY` 🖐️ used
+  - `CHECK` 🖐️ used
+  - `DEFAULT` 🖐️ used
+  - `INDEX` 🖐️ used
+  - `UNIQUE` 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
