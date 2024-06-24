@@ -6,9 +6,9 @@
   - Directories 🖐️ used
   - GRASP 👂 heard
   - SOLID 👂 heard
-  - GoF patterns
+  - GoF patterns 👂 heard
   - CQS
-  - Leaking abstractions
+  - Leaking abstractions 👂 heard
   - Multiparadigm code 👂 heard
   - Contract programming
   - Platform-agnostic  👂 heard
@@ -16,21 +16,21 @@
   - Framework-agnostic 👂 heard
   - Code coverage
   - Cohesion
-  - Coupling
+  - Coupling 🖐️ used
   - Cyclomatic complexity
-  - Reliability
+  - Reliability 🖐️ used
   - Quality 👂 heard
   - Availability
   - Flexibility 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL) 👂 heard
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI) 👂 heard
   - Clean architecture

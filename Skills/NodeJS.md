@@ -1,13 +1,13 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js 🖐️ used
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases 👂 heard
   - Event loop microtasks and macrotasks 
   - Garbage collection
-  - Node.js LTS schedule
+  - Node.js LTS schedule 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
@@ -22,8 +22,8 @@
   - Module-based permissions model 👂 heard
   - Isolation with modularity
   - Dependency injection 👂 heard
-  - DI containers
-  - Coupling and cohesion
+  - DI containers 
+  - Coupling and cohesion 🖐️ used
   - Framework agnostic approach
 - Environment
   - Command line arguments 👂 heard
@@ -33,9 +33,9 @@
   - Clustering 👂 heard
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
+  - Streams API 👂 heard
+  - Web Streams API 👂 heard
+  - Crypto API 👂 heard
   - Password hashing with crypto.scrypt
   - Web Crypto API
   - File system API (sync and async)
@@ -94,11 +94,11 @@
   - Application configuring 👂 heard
   - Testing 👂 heard
   - CI/CD 🖐️ used
-  - Readable
-  - Writable
-  - Transform
-  - Back pressure
-  - Buffer
+  - Readable 🖐️ used
+  - Writable 🖐️ used
+  - Transform 🖐️ used
+  - Back pressure 
+  - Buffer👂 heard
   - Console 👂 heard
   - Inspector
 - Data access
